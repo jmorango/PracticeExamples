@@ -1,0 +1,16 @@
+C:\Users\jmoran\source\repos\StockPrices\bin\Debug\net5.0\StockPrices.exe
+C:\Users\jmoran\source\repos\StockPrices\bin\Debug\net5.0\StockPrices.deps.json
+C:\Users\jmoran\source\repos\StockPrices\bin\Debug\net5.0\StockPrices.runtimeconfig.json
+C:\Users\jmoran\source\repos\StockPrices\bin\Debug\net5.0\StockPrices.runtimeconfig.dev.json
+C:\Users\jmoran\source\repos\StockPrices\bin\Debug\net5.0\StockPrices.dll
+C:\Users\jmoran\source\repos\StockPrices\bin\Debug\net5.0\ref\StockPrices.dll
+C:\Users\jmoran\source\repos\StockPrices\bin\Debug\net5.0\StockPrices.pdb
+C:\Users\jmoran\source\repos\StockPrices\obj\Debug\net5.0\StockPrices.csprojAssemblyReference.cache
+C:\Users\jmoran\source\repos\StockPrices\obj\Debug\net5.0\StockPrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmoran\source\repos\StockPrices\obj\Debug\net5.0\StockPrices.AssemblyInfoInputs.cache
+C:\Users\jmoran\source\repos\StockPrices\obj\Debug\net5.0\StockPrices.AssemblyInfo.cs
+C:\Users\jmoran\source\repos\StockPrices\obj\Debug\net5.0\StockPrices.csproj.CoreCompileInputs.cache
+C:\Users\jmoran\source\repos\StockPrices\obj\Debug\net5.0\StockPrices.dll
+C:\Users\jmoran\source\repos\StockPrices\obj\Debug\net5.0\ref\StockPrices.dll
+C:\Users\jmoran\source\repos\StockPrices\obj\Debug\net5.0\StockPrices.pdb
+C:\Users\jmoran\source\repos\StockPrices\obj\Debug\net5.0\StockPrices.genruntimeconfig.cache

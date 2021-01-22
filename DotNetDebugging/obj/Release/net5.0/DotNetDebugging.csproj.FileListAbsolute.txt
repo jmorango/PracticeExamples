@@ -1,0 +1,16 @@
+C:\Users\jmoran\source\repos\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.exe
+C:\Users\jmoran\source\repos\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.deps.json
+C:\Users\jmoran\source\repos\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.runtimeconfig.json
+C:\Users\jmoran\source\repos\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.runtimeconfig.dev.json
+C:\Users\jmoran\source\repos\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.dll
+C:\Users\jmoran\source\repos\DotNetDebugging\bin\Release\net5.0\ref\DotNetDebugging.dll
+C:\Users\jmoran\source\repos\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.pdb
+C:\Users\jmoran\source\repos\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.csprojAssemblyReference.cache
+C:\Users\jmoran\source\repos\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmoran\source\repos\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\jmoran\source\repos\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\jmoran\source\repos\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\jmoran\source\repos\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.dll
+C:\Users\jmoran\source\repos\DotNetDebugging\obj\Release\net5.0\ref\DotNetDebugging.dll
+C:\Users\jmoran\source\repos\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.pdb
+C:\Users\jmoran\source\repos\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.genruntimeconfig.cache

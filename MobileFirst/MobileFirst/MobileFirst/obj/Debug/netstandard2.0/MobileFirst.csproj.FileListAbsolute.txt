@@ -1,0 +1,13 @@
+C:\Users\jmoran\source\repos\MobileFirst\MobileFirst\MobileFirst\bin\Debug\netstandard2.0\MobileFirst.deps.json
+C:\Users\jmoran\source\repos\MobileFirst\MobileFirst\MobileFirst\bin\Debug\netstandard2.0\MobileFirst.dll
+C:\Users\jmoran\source\repos\MobileFirst\MobileFirst\MobileFirst\bin\Debug\netstandard2.0\ref\MobileFirst.dll
+C:\Users\jmoran\source\repos\MobileFirst\MobileFirst\MobileFirst\bin\Debug\netstandard2.0\MobileFirst.pdb
+C:\Users\jmoran\source\repos\MobileFirst\MobileFirst\MobileFirst\obj\Debug\netstandard2.0\MobileFirst.csprojAssemblyReference.cache
+C:\Users\jmoran\source\repos\MobileFirst\MobileFirst\MobileFirst\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jmoran\source\repos\MobileFirst\MobileFirst\MobileFirst\obj\Debug\netstandard2.0\MobileFirst.AssemblyInfoInputs.cache
+C:\Users\jmoran\source\repos\MobileFirst\MobileFirst\MobileFirst\obj\Debug\netstandard2.0\MobileFirst.AssemblyInfo.cs
+C:\Users\jmoran\source\repos\MobileFirst\MobileFirst\MobileFirst\obj\Debug\netstandard2.0\MobileFirst.csproj.CoreCompileInputs.cache
+C:\Users\jmoran\source\repos\MobileFirst\MobileFirst\MobileFirst\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jmoran\source\repos\MobileFirst\MobileFirst\MobileFirst\obj\Debug\netstandard2.0\MobileFirst.dll
+C:\Users\jmoran\source\repos\MobileFirst\MobileFirst\MobileFirst\obj\Debug\netstandard2.0\ref\MobileFirst.dll
+C:\Users\jmoran\source\repos\MobileFirst\MobileFirst\MobileFirst\obj\Debug\netstandard2.0\MobileFirst.pdb
