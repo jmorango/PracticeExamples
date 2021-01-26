@@ -9,13 +9,15 @@ namespace StockPricesV2
             int maxProfit = 0;
             DateTime start = new DateTime();
             DateTime end = new DateTime();
-            int[] stockPrices = new int[100000];
+            // if the array is larger than 1635 most of the time the single loop method is aquicker.
+            // For arrays smaller than 1635 the method with the 2 for loops is quicker most times. 
+            int[] stockPrices = new int[5000];
 
             //Initializing the array with 1000 random values
             Random numbers = new Random();
             for(int i = 0; i < stockPrices.Length; i++)
             {
-                stockPrices[i] = numbers.Next();
+                stockPrices[i] = numbers.Next(10000);
             }
             
             //capturing time before and after function execution (with while loop)

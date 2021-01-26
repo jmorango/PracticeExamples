@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Amed\\.nuget\\packages\\": {},
+    "C:\\Users\\jmoran\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Amed\\source\\repos\\StockPricesV2\\StockPricesV2.csproj",
+      "projectUniqueName": "C:\\Users\\jmoran\\source\\repos\\StockPricesV2\\StockPricesV2.csproj",
       "projectName": "StockPricesV2",
-      "projectPath": "C:\\Users\\Amed\\source\\repos\\StockPricesV2\\StockPricesV2.csproj",
-      "packagesPath": "C:\\Users\\Amed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Amed\\source\\repos\\StockPricesV2\\obj\\",
+      "projectPath": "C:\\Users\\jmoran\\source\\repos\\StockPricesV2\\StockPricesV2.csproj",
+      "packagesPath": "C:\\Users\\jmoran\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jmoran\\source\\repos\\StockPricesV2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Amed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jmoran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
