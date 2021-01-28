@@ -34,6 +34,13 @@ namespace LottoPDFReading
                 char ch = text[index];
                 char nextChar = text[index + 1];
 
+                
+                if(ch=='\n' && Char.IsDigit(nextChar)||ch == 'X')
+                {
+                    Console.Write(' ');
+                    index++;
+                    continue;
+                }
                 if (ch =='\n' || (ch == ' ' && nextChar==' ')||ch == '\t') 
                 {
                     index++;
