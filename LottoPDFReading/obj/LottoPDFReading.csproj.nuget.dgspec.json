@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Amed\\source\\repos\\LottoPDFReading\\LottoPDFReading.csproj": {}
+    "C:\\Users\\jmoran\\source\\repos\\LottoPDFReading\\LottoPDFReading.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Amed\\source\\repos\\LottoPDFReading\\LottoPDFReading.csproj": {
+    "C:\\Users\\jmoran\\source\\repos\\LottoPDFReading\\LottoPDFReading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amed\\source\\repos\\LottoPDFReading\\LottoPDFReading.csproj",
+        "projectUniqueName": "C:\\Users\\jmoran\\source\\repos\\LottoPDFReading\\LottoPDFReading.csproj",
         "projectName": "LottoPDFReading",
-        "projectPath": "C:\\Users\\Amed\\source\\repos\\LottoPDFReading\\LottoPDFReading.csproj",
-        "packagesPath": "C:\\Users\\Amed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amed\\source\\repos\\LottoPDFReading\\obj\\",
+        "projectPath": "C:\\Users\\jmoran\\source\\repos\\LottoPDFReading\\LottoPDFReading.csproj",
+        "packagesPath": "C:\\Users\\jmoran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmoran\\source\\repos\\LottoPDFReading\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Amed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmoran\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

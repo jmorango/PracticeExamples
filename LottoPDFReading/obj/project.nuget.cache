@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "djFnyE7ToAImaoX+4gSnFM/MKsu6K/Sk8ItPClcaRFB8M4M4upx5R7gBTowI8Mdv0PBRrbGrV12p+ZiADAGcQw==",
+  "dgSpecHash": "it2WwA8+yY/PgFpxRCjbvmEDPkA6uZerw0xVX/LnWfYv2ccX3xnje5rN/gVmjJmGzNxc1RQQJkr4EuV72j8TTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Amed\\source\\repos\\LottoPDFReading\\LottoPDFReading.csproj",
+  "projectFilePath": "C:\\Users\\jmoran\\source\\repos\\LottoPDFReading\\LottoPDFReading.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Amed\\.nuget\\packages\\bouncycastle\\1.8.6.1\\bouncycastle.1.8.6.1.nupkg.sha512",
-    "C:\\Users\\Amed\\.nuget\\packages\\itextsharp\\5.5.13.2\\itextsharp.5.5.13.2.nupkg.sha512"
+    "C:\\Users\\jmoran\\.nuget\\packages\\bouncycastle\\1.8.6.1\\bouncycastle.1.8.6.1.nupkg.sha512",
+    "C:\\Users\\jmoran\\.nuget\\packages\\itextsharp\\5.5.13.2\\itextsharp.5.5.13.2.nupkg.sha512"
   ],
   "logs": [
     {
